@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5c25dc3-b760-456c-80e9-7ab987eff5cc" name="Changes" comment="" />
+    <list default="true" id="e5c25dc3-b760-456c-80e9-7ab987eff5cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../HesapM/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/HesapM..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/src/HesapM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HesapM/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../HesapM" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ez0wtDYHNI4y1bGJzvEPkhbRPH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
